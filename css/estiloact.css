@@ -1,0 +1,35 @@
+/*Estructura de css 
+selector{ 
+    propiedad:valor
+}
+*/
+
+.caja{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    font-size: 50px;
+    margin-right: 10px;
+    box-shadow: 1px 1px 1px gray;
+    
+}
+
+div#uno{
+    background-color: red;
+    color: yellow;
+      
+}
+div#dos{
+    background-color: black;
+    color: white;
+}
+div#tres{
+    background-color: red;
+    color: yellow;
+}
+div#cuatro{
+    background-color: red;
+    color: yellow;
+}
+
+ 
